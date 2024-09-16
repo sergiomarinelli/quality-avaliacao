@@ -22,13 +22,13 @@ Siga os passos abaixo para configurar o projeto:
 Clone o repositório:
 
 ```
-git clone https://github.com/SEU_USUARIO/projeto-quality-entregas.git
+git clone https://github.com/SEU_USUARIO/quality-avaliacao.git
 ```
 
 Navegue até o diretório do projeto:
 
 ```
-cd projeto-quality-entregas
+cd quality-avaliacao
 ```
 
 Instale as dependências do backend,
