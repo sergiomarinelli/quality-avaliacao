@@ -1,4 +1,4 @@
-Quality Entregas
+Exame Quality Entregas
 
 1. Teste de Lógica: As respostas do teste de lógica estão no arquivo (Avaliação Técnica - Dev.Full-Stack - Sérgio - Respondido), neste repositório.
 2. Banco de Dados: As consultas de banco de dados estão no arquivo (Parte II - Banco de Dados), neste repositório.
