@@ -2,7 +2,7 @@
 
 1. Teste de Lógica: As respostas do teste de lógica estão no arquivo (Avaliação Técnica - Dev.Full-Stack - Sérgio - Respondido), neste repositório.
 2. Banco de Dados: As consultas de banco de dados estão no arquivo (Parte II - Banco de Dados), neste repositório.
-3. Lógica de Programação: O projeto está nesse repositório e as instruções estão a seguir:
+3. Lógica de Programação - O projeto está nesse repositório e as instruções estão a seguir:
 
 Um sistema completo para gerenciamento de clientes, desenvolvido com Node.js e Vue.js. Este projeto permite criar, ler, atualizar e excluir informações de clientes de maneira eficiente, oferecendo uma interface de usuário intuitiva e uma API robusta.
 
@@ -13,8 +13,8 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 Para instalar e executar este projeto, você precisa das seguintes ferramentas:
 
 Node.js: v14 ou superior
-MySQL ou MariaDB
-Certifique-se de que essas ferramentas estão instaladas em sua máquina..
+MySQL ou MariaDB.
+Certifique-se de que essas ferramentas estão instaladas em sua máquina.
 
 ## 🔧 Instalação
 Siga os passos abaixo para configurar o projeto:
@@ -31,24 +31,23 @@ Navegue até o diretório do projeto:
 cd projeto-quality-entregas
 ```
 
-Instale as dependências do backend:
-Navegue até o diretório src e execute:
+Instale as dependências do backend,
+navegue até o diretório src e execute:
 
 ```
-bash
 cd src
 npm install
 ```
 
-Instale as dependências do frontend:
-Em um terminal separado, navegue até o diretório frontend e execute:
+Instale as dependências do frontend,
+em um terminal separado, navegue até o diretório frontend e execute:
 
 ```
 cd front-client-app
 npm install
-Configure o banco de dados:
 ```
 
+Configure o banco de dados:
 Crie um banco de dados MySQL conforme o nome especificado no arquivo .env.
 Atualize o arquivo .env com suas credenciais do banco de dados.
 Exemplo de .env para o backend:
@@ -60,8 +59,8 @@ DB_PASSWORD=Password
 DB_HOST=127.0.0.1
 ```
 
-Crie o arquivo .env para o frontend:
-Navegue até o diretório frontend e crie um arquivo .env com o seguinte conteúdo:
+Crie o arquivo .env para o frontend,
+navegue até o diretório frontend e crie um arquivo .env com o seguinte conteúdo:
 
 ```
 VUE_APP_API_URL=http://localhost:3000/api
