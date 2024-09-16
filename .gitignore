@@ -1,0 +1,6 @@
+back-client-app/.env
+back-client-app/node_modules
+back-client-app/package.json
+front-client-app/.env
+front-client-app/node_modules
+front-client-app/package.json
