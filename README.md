@@ -9,14 +9,12 @@ Um sistema completo para gerenciamento de clientes, desenvolvido com Node.js e V
 ## 🚀 Começando
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte Implantação para saber como implantar o projeto.
-
 ## 📋 Pré-requisitos
 Para instalar e executar este projeto, você precisa das seguintes ferramentas:
 
 Node.js: v14 ou superior
 MySQL ou MariaDB
-Certifique-se de que essas ferramentas estão instaladas em sua máquina. Caso contrário, siga os links para obter instruções de instalação.
+Certifique-se de que essas ferramentas estão instaladas em sua máquina..
 
 ## 🔧 Instalação
 Siga os passos abaixo para configurar o projeto:
